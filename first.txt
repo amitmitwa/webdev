@@ -1,2 +1,4 @@
 Hello,
 I'm learning git and web development.
+
+Second Edit, it is cool to use git bash
